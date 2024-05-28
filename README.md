@@ -37,7 +37,6 @@ We really need your support, star or watch this repo for latest updates.
 
 <kbd><img src="https://github.com/rayston92/graph_bed/blob/e3b2c938fc5b17d68531f69178908afb16266e6a/img/onekey_monorepo_star.gif?raw=true" alt="Star this repo"/></kbd>
 
-
 ## 🚀 Getting Onboard
 
 1. Install [node.js LTS version](https://nodejs.org/en/)
